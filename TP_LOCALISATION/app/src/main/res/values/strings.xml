@@ -1,0 +1,40 @@
+<resources>
+    <!-- App information -->
+    <string name="app_name">TP_LOCALISATION</string>
+    <string name="splash_app_title">Géo Tracker</string>
+    <string name="splash_app_subtitle">Votre service de localisation précise</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="app_info">© 2025 Géo Tracker. Tous droits réservés.</string>
+    <string name="app_logo_description">Logo de l\'application</string>
+
+    <!-- Status card -->
+    <string name="status_title">Statut</string>
+    <string name="status_ready">Prêt à envoyer votre position</string>
+    <string name="status_sending">Envoi de votre position en cours…</string>
+    <string name="status_success">Position envoyée avec succès</string>
+    <string name="status_error">Erreur lors de l\'envoi de la position</string>
+    <string name="status_permission_required">Permission de localisation requise</string>
+
+    <!-- Location card -->
+    <string name="current_location">Position actuelle</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="last_update">Dernière mise à jour:</string>
+    <string name="not_available">Non disponible</string>
+
+    <!-- Buttons -->
+    <string name="send_position">Envoyer ma position</string>
+    <string name="show_map">Afficher sur la carte</string>
+
+    <!-- Notifications and messages -->
+    <string name="location_permission_needed">Permission de localisation requise pour cette fonction</string>
+    <string name="location_service_disabled">Les services de localisation sont désactivés</string>
+    <string name="location_updated">Position mise à jour</string>
+    <string name="enable_location_services">Veuillez activer les services de localisation</string>
+    <string name="grant_permission">Accorder la permission</string>
+    <string name="cancel">Annuler</string>
+
+    <!-- Map related -->
+    <string name="your_location">Votre position</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDLDezgXlCq4FYBfwDwQly4URreS5eOxgg</string>
+</resources>
